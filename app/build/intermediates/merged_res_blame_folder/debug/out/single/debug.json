@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\layout_food_data.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\food_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_cheeseburger.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\cheeseburger.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_beefburger.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\beefburger.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_coke.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\coke.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_shirimpburger.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\shirimpburger.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\layout_fragment_beverage.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\fragment_beverage.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\layout_fragment_burger.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\fragment_burger.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_cheesestick.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\cheesestick.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_img_logo.jpg.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\img_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_ade.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\ade.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_coffee.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\coffee.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_cheeseball.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\cheeseball.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_meatballburger.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\meatballburger.png"
+    },
+    {
+        "merged": "com.example.homework2.app-merged_res-31:/layout_modal_data.xml.flat",
+        "source": "com.example.homework2.app-main-33:/layout/modal_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\layout_fragment_side.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\fragment_side.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_cider.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\cider.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_salad.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\salad.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_bulgogieburger.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\bulgogieburger.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_potato.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\potato.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\layout_choice_data.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\choice_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\layout_modal_data.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\modal_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\layout_modal_food.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\modal_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\layout_modal_selectfood.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\modal_selectfood.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_psyburger.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\psyburger.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\drawable_juice.png.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\drawable\\juice.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-merged_res-31:\\layout_activity_order.xml.flat",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\activity_order.xml"
+    }
+]

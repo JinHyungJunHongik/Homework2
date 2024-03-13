@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-mergeDebugResources-30:\\layout\\fragment_beverage.xml",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\fragment_beverage.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-mergeDebugResources-30:\\layout\\choice_data.xml",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\choice_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-mergeDebugResources-30:\\layout\\modal_selectfood.xml",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\modal_selectfood.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-mergeDebugResources-30:\\layout\\modal_food.xml",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\modal_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-mergeDebugResources-30:\\layout\\activity_order.xml",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-mergeDebugResources-30:\\layout\\fragment_side.xml",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\fragment_side.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-mergeDebugResources-30:\\layout\\fragment_burger.xml",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\fragment_burger.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-mergeDebugResources-30:\\layout\\food_data.xml",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\food_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-mergeDebugResources-30:\\layout\\modal_data.xml",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\modal_data.xml"
+    },
+    {
+        "merged": "com.example.homework2.app-mergeDebugResources-30:/layout/modal_data.xml",
+        "source": "com.example.homework2.app-main-33:/layout/modal_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-mergeDebugResources-30:\\layout\\activity_payment.xml",
+        "source": "C:\\Users\\HP-15s\\.gradle\\daemon\\8.2\\com.example.homework2.app-main-33:\\layout\\activity_payment.xml"
+    }
+]
