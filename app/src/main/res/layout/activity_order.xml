@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OrderActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout_menu"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:orientation="vertical"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/Food_tab"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            app:tabGravity="fill"/>
+
+        <androidx.viewpager2.widget.ViewPager2
+            android:id="@+id/Food_menu"
+            android:layout_width="match_parent"
+            android:layout_height="420dp"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linearLayout_info"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@id/linearLayout_menu"
+        android:background="#ECCCC2">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="20dp"
+            android:text="총주문내역 :"
+            android:textStyle="bold"
+            android:gravity="center"
+            />
+        <TextView
+            android:id="@+id/tx_totalNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="20dp"
+            android:layout_marginLeft="15dp"
+            android:text="0"
+            android:textStyle="bold"
+            android:gravity="center" />
+        <TextView
+            android:id="@+id/tx_totalPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="20dp"
+            android:text="0"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginLeft="100dp"/>
+    </LinearLayout>
+    <androidx.core.widget.NestedScrollView
+        app:layout_constraintTop_toBottomOf="@id/linearLayout_info"
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_selectMenu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </androidx.core.widget.NestedScrollView>
+
+    <Button
+        android:id="@+id/btn_charge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="결제하기"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginRight="20dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
